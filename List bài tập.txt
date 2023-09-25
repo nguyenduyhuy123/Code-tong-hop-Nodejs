@@ -1,0 +1,71 @@
+1. Viết mã lệnh để tạo web server cho các yêu cầu (req) tại cổng 8080 và trả về đáp ứng (res) là
+“Hello world!”. Khởi nạp file mã lệnh vào Node.js và đệ trình yêu cầu trên trình duyệt.
+
+
+2. Viết mã lệnh để tạo web server cho các yêu cầu (req) tại cổng 8080 và trả về đáp ứng (res) là
+ngày tháng năm của hệ thống. Khởi nạp file mã lệnh vào Node.js và đệ trình yêu cầu trên
+trình duyệt.Yêu cầu viết module trả về đối tượng ngày tháng năm (date) và thời gian (time)
+của hệ thống.
+
+
+3. Viết mã lệnh để tạo web server cho các yêu cầu (req) tại cổng 8080 và trả về đáp ứng (res) có
+mã trạng thái 200 (status code: OK) và kiểu nội dung text/html (Content-Type: text/html).
+Khởi nạp file mã lệnh vào Node.js và đệ trình yêu cầu trên trình duyệt.
+
+
+4. Viết mã lệnh để tạo web server cho các yêu cầu (req) tại cổng 8080 và trả về đáp ứng (res) là
+phần url sau tên miền của yêu cầu (req). Khởi nạp file mã lệnh vào Node.js và đệ trình yêu
+cầu trên trình duyệt.
+
+
+5. Viết mã lệnh để tạo web server cho các yêu cầu (req) tại cổng 8080 và trả về đáp ứng (res) là
+các tham số và trị của chúng trong yêu cầu (req). Khởi nạp file mã lệnh vào Node.js và đệ
+trình yêu cầu trên trình duyệt.
+
+
+6. Viết mã lệnh để tạo web server cho các yêu cầu (req) tại cổng 8080 và trả về đáp ứng (res) là
+nội dung của một trang web khác. Khi nạp file mã lệnh vào Node.js và đệ trình yêu cầu trên
+trình duyệt.
+
+
+7. Viết mã lệnh để tạo web server cho các yêu cầu (req) tại cổng 8080 và hiển thị kết quả trong
+Terminal với nội dung gồm các phần: host, pathname, search.
+
+
+8. Viết mã lệnh để tạo web server cho các yêu cầu (req) tại cổng 8080 và trả về đáp ứng (res) là
+nội dung của một trang web tùy vào tham số của yêu cầu (req), tham số là tên trang web.
+Khởi nạp file mã lệnh vào Node.js và đệ trình yêu cầu trên trình duyệt.
+
+
+9. Viết mã lệnh phát sinh sự kiện khi mở file và hiển thị kết quả trong Terminal với nội dung là
+file được mở.
+
+
+10. Viết mã lệnh phát sinh sự kiện khi đóng file và hiển thị kết quả trong Terminal với nội dung là
+file được đóng.
+
+
+11. Viết mã lệnh tạo restful cho phương thức get để chuyển đổi ngoại tệ.
+
+
+12. Viết mã lệnh tao restfull cho phương thức get/post/put/delete để quản lý danh sách user.
+
+
+13. Viết mã lệnh để tạo web server cho các yêu cầu (req) tại cổng 8080 và trả về đáp ứng (res) là
+trang form web cho phép người dùng tải file lên server.
+
+
+14. Viết mã lệnh để tạo web server cho các yêu cầu (req) tại cổng 8080 và trả về đáp ứng (res) là
+trang form web cho phép người dùng tải file lên server.
+
+
+15. Viết mã lệnh để tạo web server cho các yêu cầu (req) tại cổng 8080 và trả về đáp ứng (res) là
+trang form web, trang web này sử dụng (consume) restfull để quản lý danh sách user.
+
+
+
+Mục tiêu full -> 21h00 today. 
+
+
+
+
